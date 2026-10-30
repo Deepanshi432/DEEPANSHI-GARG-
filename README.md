@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-- I'm Deepanshi, a 3rd-year B.Tech Computer Science student at **Apeejay Stya University** (2023–2027).
+- I'm Deepanshi, a 4th-year B.Tech Computer Science student at **Apeejay Stya University** (2023–2027).
 - I enjoy building analytical dashboards, ML models, and data-driven web apps.
 - 🏛️ Recently worked as an **AI/ML Intern at the Delhi Secretariat (NCT of Delhi)**, building a prenatal nutritional risk screening framework and role-based analytics dashboards.
 - 📄 Co-authored a research paper on prenatal nutritional risk prediction (macro-F1: 0.645 with Gradient Boosting).
